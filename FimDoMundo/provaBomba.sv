@@ -1,3 +1,4 @@
+// Bomba
 logic clock, RESET, sol, painel, rede;
 logic [25:0] contador;
 logic [3:0] state;
