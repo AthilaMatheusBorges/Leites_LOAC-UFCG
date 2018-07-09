@@ -57,3 +57,10 @@ buck-out/
 
 # VSCode
 *.vscode
+
+# Class Risc
+/src/Class/Risc.js
+
+# Movies files
+*.mov
+*.avi
