@@ -5,7 +5,7 @@ export default class Rodape extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.txt}> LOAC é peso! </Text>
+          <Text style={styles.txt}> LOAC é peso! </Text>
       </View>
     )
   }
